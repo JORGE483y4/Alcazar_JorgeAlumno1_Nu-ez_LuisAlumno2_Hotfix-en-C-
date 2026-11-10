@@ -11,7 +11,7 @@ namespace practica2
         public Valores()
         {
             personaje.Nombre = "Jorge";
-            personaje.Vida = -000000000100;
+            personaje.Vida = 100;
             personaje.Ataque = 20;
             personaje.Defensa = 10;
             personaje.Nivel = 1;
